@@ -4,4 +4,4 @@ Specifications:
 Make a new file in cloned respository (locally).
 Probably will push back to Github later.
 
-changes
+Hi, this should show up when I do git diff.
